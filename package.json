@@ -1,0 +1,27 @@
+{
+  "name": "svg-creator",
+  "version": "1.0.0",
+  "description": "A command line svg crator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnyzio/svg-creator.git"
+  },
+  "keywords": [],
+  "author": "Mirek Nyzio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnyzio/svg-creator/issues"
+  },
+  "homepage": "https://github.com/mnyzio/svg-creator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"    
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
